@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Inhalts-Passwortschutz
-Plugin URI: https://n3rds.work/docs/inhalts-passwortschutz-handbuch/
+Plugin URI: https://n3rds.work/piestingtal_source/inhalt-passwortschutz-plugin/
 Description: Ermöglicht es Dir, ausgewählte Inhalte innerhalb eines Beitrags oder einer Seite mit einem Passwort zu schützen, während der Rest der Inhalte öffentlich bleibt.
 Author: WMS N@W
 Version: 1.2.3
@@ -10,9 +10,8 @@ Textdomain: psc
 */
 
 /* 
-Copyright 2007-2014 Incsub (http://incsub.com)
-Author - Aaron Edwards
-Contributors - 
+Copyright 2014-2021 WMS N@W (https://n3rds.work)
+Author - DerN3rd
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License (Version 2 - GPLv2) as published by
