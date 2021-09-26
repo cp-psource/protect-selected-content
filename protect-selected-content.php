@@ -4,7 +4,7 @@ Plugin Name: Inhalts-Passwortschutz
 Plugin URI: https://n3rds.work/piestingtal_source/inhalt-passwortschutz-plugin/
 Description: Ermöglicht es Dir, ausgewählte Inhalte innerhalb eines Beitrags oder einer Seite mit einem Passwort zu schützen, während der Rest der Inhalte öffentlich bleibt.
 Author: WMS N@W
-Version: 1.2.3
+Version: 1.2.4
 Author URI: http://n3rds.work/
 Textdomain: psc
 */
