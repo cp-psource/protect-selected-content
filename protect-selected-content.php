@@ -128,7 +128,7 @@ class PartialPostPassword {
                         src="<?php echo plugins_url(dirname(plugin_basename(__FILE__)) . '/tinymce/tiny_mce_popup.js'); ?>">
                 </script>
 				<script type="text/javascript" src="../wp-includes/js/tinymce/utils/form_utils.js?ver=327-1235"></script>
-				<script type="text/javascript" src="../wp-includes/js/tinymce/utils/editable_selects.js?ver=327-1235"></script>
+				<script type="text/javascript" src="../"></script>
 
 				<script type="text/javascript" src="../wp-includes/js/jquery/jquery.js"></script>
 
@@ -166,7 +166,7 @@ class PartialPostPassword {
 				<form onsubmit="insertProtect();return false;" action="#">
 
 					<div id="general_panel" class="panel current">
-						<div id="psc-error" style="display: none;color:#C00;padding: 2px 0;"><?php _e("Bitte Passwort eingeben!", 'psc'); ?></div>
+						<div id="psc-error" style="display: none; color:#C00;padding: 2px 0;"><?php _e("Bitte Passwort eingeben!", 'psc'); ?></div>
 							<fieldset>
 						  <table border="0" cellpadding="4" cellspacing="0">
 								<tr>
